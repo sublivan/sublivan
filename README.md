@@ -4,7 +4,7 @@
 </br>
 
 Contact.  
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sublivan29@gmail.com)](mailto:sublivan29@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail:%20sublivan29@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sublivan29@gmail.com)](mailto:sublivan29@gmail.com)
 
 Channel.  
 [![Tech Blog Badge](http://img.shields.io/badge/-Github%20sublivan-black?style=flat-square&logo=github&link=https://github.com/sublivan)](https://github.com/sublivan) 
